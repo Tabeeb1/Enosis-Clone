@@ -19,6 +19,7 @@
         color: rgb(235, 8, 8);
         font-family: "Open Sans", Sans-serif;
         font-weight: bold;
+        cursor: pointer
     }
     .desc2-custom{
         margin-top: 40px;
