@@ -1,0 +1,27 @@
+.offer{
+    .offering{
+        font-family: "Open Sans", Sans-serif ;
+        font-size: 33px;
+        font-weight: bold;
+        margin-top: 160px;
+        margin-left: 815px;
+    }
+    .offer-1{
+        font-family: Lato;
+        margin-top: 28px;
+        margin-left: 570px;
+        font-size: 17px;
+    }
+    .offer-2{
+        font-family: Lato;
+        margin-top: 6px;
+        margin-left: 574px;
+        font-size: 17px;
+    }
+    .offer-3{
+        font-family: Lato;
+        margin-top: 6px;
+        margin-left: 603px;
+        font-size: 17px;
+    }
+}

@@ -1,0 +1,33 @@
+.trust{
+    display: flex;
+    height: 500px;
+    margin-top: 228px;
+    margin-left: 428px;
+    .trusted-partner{
+        margin-top: 101px;
+        font-family: "Open Sans", Sans-serif;
+        font-size: 31px;
+        font-weight: bold;
+        width: 575px;
+        line-height: 1.3em;
+        letter-spacing: 1.2px;
+        .top-tier{
+            margin-top: 20px;
+            color: gray;
+            font-size: 21px;
+            font-weight: 100;
+            line-height: 35px;
+            letter-spacing: 0px;
+        }
+    }
+    .red-enosis{
+        color: red;
+        letter-spacing: .8px;
+    }
+    .banner-picture{
+        margin-top: 83px;
+        margin-left: 13px;
+        width: 450px;
+        height: 295px;
+    }
+}

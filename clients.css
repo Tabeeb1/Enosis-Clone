@@ -1,0 +1,52 @@
+.clients{
+    margin-top: 100px;
+    height: 300px;
+    width: 100%;
+    background-color: #F8F8F8;
+    display: flex;
+}
+.client-names{
+    .client-our{
+        margin-top: 35px;
+        margin-left: 850px;
+        font-family: "Open Sans", Sans-serif;
+        font-weight: bold;
+        font-size: 34px;
+    }
+    .actual-name{
+        display: flex;
+        .less{
+            margin-top: 100px;
+            margin-left: 450px;
+            font-size: 25px;
+            color: gray;
+        }
+        .pic-1{
+            margin-top: 83px;
+            margin-left: 25px;
+            .client-picture-1{
+                width: 300px;
+            }
+        }
+        .pic-2{
+            margin-top: 70px;
+            margin-left: 80px;
+            .client-picture-2{
+                width: 250px;
+            }
+        }
+        .pic-3{
+            margin-top: 60px;
+            margin-left: 90px;
+            .client-picture-3{
+                width: 230px;
+            }
+        }
+        .great{
+            margin-top: 95px;
+            margin-left: 30px;
+            font-size: 25px;
+            color: gray;
+        }
+    }
+}

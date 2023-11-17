@@ -1,0 +1,30 @@
+.web-software{
+    display: flex;
+    .web-picture{
+        width: 490px;
+        height: 490px;
+        margin-top: 60px;
+    }
+    .web-pic{
+        margin-left: 130px;
+        margin-top: 40px;
+    }
+    .desc-web{
+        margin-left: 465px;
+        margin-top: 220px;
+    }
+    .desc1-web{
+        font-size: 30px;
+        width: 310px;
+        line-height: 33px;
+        color: rgb(235, 8, 8);
+        font-family: "Open Sans", Sans-serif;
+        font-weight: bold;
+    }
+    .desc2-web{
+        margin-top: 40px;
+        width: 420px;
+        font-family: Lato;
+        line-height: 25px;
+    } 
+}

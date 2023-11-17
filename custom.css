@@ -1,0 +1,29 @@
+.custom-software{
+    display: flex;
+    .developer-picture{
+        width: 490px;
+        height: 490px;
+    }
+    .custom-pic{
+        margin-left: 460px;
+        margin-top: 160px;
+    }
+    .desc-custom{
+        margin-left: 100px;
+        margin-top: 280px;
+    }
+    .desc1-custom{
+        font-size: 30px;
+        width: 310px;
+        line-height: 33px;
+        color: rgb(235, 8, 8);
+        font-family: "Open Sans", Sans-serif;
+        font-weight: bold;
+    }
+    .desc2-custom{
+        margin-top: 40px;
+        width: 420px;
+        font-family: Lato;
+        line-height: 25px;
+    }
+}

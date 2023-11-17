@@ -1,0 +1,75 @@
+.final-touch{
+    margin-top: 150px;
+    display: flex;
+    width: 100%;
+    height: 800px;
+    background-color: rgb(240, 240, 240);
+    .final-words{
+        margin-top: 250px;
+        margin-left: 460px;
+        width: 400px;
+        font-family: "Open Sans", Sans-serif ;
+        font-size: 80px;
+        font-weight: bold;
+        line-height: 90px;
+    }
+    .final-red{
+        color: red;
+    }
+    .sad-final-pic{
+        height: 100px;
+        width: 200px;
+        margin-top: 330px;
+    }
+    .final-boxes{
+        .box1,.box2,.box3,.box4,.box5,.box6{
+            display: block;
+            margin-bottom: 25px;
+            border-width: 1px;
+            border-style: solid;
+            border-color: rgb(216, 216, 216);
+        }
+        .box1::placeholder,.box2::placeholder,.box3::placeholder,.box4::placeholder,.box5::placeholder{
+            padding-left: 15px;
+        }
+        .box1{
+            margin-top: 150px;
+        }
+        .box1,.box2,.box3,.box4{
+            width: 390px;
+            height: 55px;
+        }
+        .box5{
+            width: 390px;
+            height: 75px;
+        }
+        .box6{
+            background-color: rgb(224, 13, 13);
+            color: white;
+            padding-left: 50px;
+            padding-right: 50px;
+            padding-top: 20px;
+            padding-bottom: 20px;
+            font-size: 20px;
+            font-weight: bold;
+            font-family: "Open Sans", Sans-serif;
+        }
+    }
+}
+
+.ending{
+    background-color: rgb(46, 44, 44);
+    height: 120px;
+    display: flex;
+    .ending-writing{
+        color:rgb(212, 208, 208);
+        font-size: 17px;
+        margin-top: 50px;
+        margin-left: 790px;
+    }
+}
+
+
+
+
+

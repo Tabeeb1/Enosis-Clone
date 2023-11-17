@@ -1,0 +1,30 @@
+.mobile-software{
+    display: flex;
+    .mobile-picture{
+        width: 490px;
+        height: 490px;
+        margin-top: 60px;
+    }
+    .mobile-pic{
+        margin-left: 440px;
+        margin-top: 40px;
+    }
+    .desc-mobile{
+        margin-left: 100px;
+        margin-top: 200px;
+    }
+    .desc1-mobile{
+        font-size: 30px;
+        width: 310px;
+        line-height: 33px;
+        color: rgb(235, 8, 8);
+        font-family: "Open Sans", Sans-serif;
+        font-weight: bold;
+    }
+    .desc2-mobile{
+        margin-top: 40px;
+        width: 420px;
+        font-family: Lato;
+        line-height: 25px;
+    } 
+}

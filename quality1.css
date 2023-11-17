@@ -1,0 +1,45 @@
+.qualities-1{
+    display: flex;
+    .qualified-engineers{
+        margin-top: 100px;
+        margin-left: 380px;
+        width: 550px;
+        .pic-qualified-engineers{
+            background-color: rgb(243, 243, 243);
+        }
+        .title-qualified-engineers{
+            color: red;
+            font-style: "Open Sans", Sans-serif ;
+            font-size: 30px;
+            font-weight: bold;
+            margin-top: 35px;
+        }
+        .decription-qualified-engineers{
+            font-family: Lato;
+            font-size: 16px;
+            margin-top: 20px;
+            line-height: 25px;
+        }
+    }
+    .dedicated-team{
+        width: 530px;
+        margin-left: 150px;
+        margin-top: 99px;
+        .pic-dedicated-engineers{
+            background-color: rgb(243, 243, 243);
+        }
+        .title-dedicated-engineers{
+            color: red;
+            font-style: "Open Sans", Sans-serif ;
+            font-size: 30px;
+            font-weight: bold;
+            margin-top: 35px;
+        }
+        .decription-dedicated-engineers{
+            font-family: Lato;
+            font-size: 16px;
+            margin-top: 20px;
+            line-height: 25px;
+        }
+    }
+}

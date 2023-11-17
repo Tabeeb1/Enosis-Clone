@@ -1,0 +1,35 @@
+.our-services{
+    margin-left: 820px;
+    margin-top: 185px;
+    .tell-service{
+        font-family: "Open Sans", Sans-serif;
+        font-weight: bold;
+        font-size: 35px;
+        color: rgb(59, 59, 59);
+        font-weight: 600;
+    }
+    .desc1{
+        font-family: Lato;
+        margin-left: -240px;
+        margin-top: 30px;
+        width: 730px;
+    }
+    .desc2{
+        font-family: Lato;
+        margin-left: -233px;
+        width: 730px;
+        margin-top: 8px;
+    }
+    .desc3{
+        font-family: Lato;
+        margin-left: -215px;
+        width: 730px;
+        margin-top: 8px;
+    }
+    .desc4{
+        font-family: Lato;
+        margin-left: -8px;
+        width: 730px;
+        margin-top: 8px;
+    }
+}

@@ -1,0 +1,30 @@
+.quality-software{
+    display: flex;
+    .quality-picture{
+        width: 490px;
+        height: 490px;
+        margin-top: 60px;
+    }
+    .quality-pic{
+        margin-left: 150px;
+        margin-top: 60px;
+    }
+    .desc-quality{
+        margin-left: 445px;
+        margin-top: 260px;
+    }
+    .desc1-quality{
+        font-size: 30px;
+        width: 310px;
+        line-height: 33px;
+        color: rgb(235, 8, 8);
+        font-family: "Open Sans", Sans-serif;
+        font-weight: bold;
+    }
+    .desc2-quality{
+        margin-top: 40px;
+        width: 420px;
+        font-family: Lato;
+        line-height: 25px;
+    }   
+}

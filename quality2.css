@@ -1,0 +1,45 @@
+.qualities-2{
+    display: flex;
+    .collaborative-engineers{
+        margin-top: 100px;
+        margin-left: 380px;
+        width: 550px;
+        .pic-collaborative{
+            background-color: rgb(243, 243, 243);
+        }
+        .title-collaborative{
+            color: red;
+            font-style: "Open Sans", Sans-serif ;
+            font-size: 30px;
+            font-weight: bold;
+            margin-top: 35px;
+        }
+        .decription-collaborative{
+            font-family: Lato;
+            font-size: 16px;
+            margin-top: 20px;
+            line-height: 25px;
+        }
+    }
+    .supervision-team{
+        width: 530px;
+        margin-left: 150px;
+        margin-top: 99px;
+        .pic-supervision{
+            background-color: rgb(243, 243, 243);
+        }
+        .title-supervision{
+            color: red;
+            font-style: "Open Sans", Sans-serif ;
+            font-size: 30px;
+            font-weight: bold;
+            margin-top: 35px;
+        }
+        .decription-supervision{
+            font-family: Lato;
+            font-size: 16px;
+            margin-top: 20px;
+            line-height: 25px;
+        }
+    }
+}
